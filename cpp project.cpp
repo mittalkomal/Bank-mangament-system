@@ -361,7 +361,7 @@ void intro()
 	cout<<"\n\n\t     MANAGEMENT";
 	cout<<"\n\n\t       SYSTEM";
 	cout<<"\n\n\n\n MADE BY : komal,kriti";
-	cout<<"\n\t :1610991264,1610991265";
+	cout<<"\n\t :1610991461,1610991465";
 	cin.get();
 }
 
